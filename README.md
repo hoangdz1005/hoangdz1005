@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nnh10052002@gmailcom**
 
-- ⚡ Fun fact **Glory Glory Manchester United <3**
+- ⚡ **Glory Glory Manchester United <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
