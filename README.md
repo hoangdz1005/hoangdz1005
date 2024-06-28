@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-
   <!--
   <div id="badges">
     <a href="your-linkedin-URL">
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
    -->
 
   <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=ReLive27&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=hoangdz1005&style=flat-square&color=blue" alt=""/>
   </div>
 
   <h1>
